@@ -1,0 +1,2 @@
+cd /d "C:\Users\Akshay\source\repos\MathBook_Pro" &msbuild "MathBook_Pro.vcxproj" /t:sdvViewer /p:configuration="Debug" /p:platform="Win32" /p:SolutionDir="C:\Users\Akshay\source\repos\MathBook_Pro" 
+exit %errorlevel% 
